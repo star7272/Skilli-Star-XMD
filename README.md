@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/demo/image/upload/v1700000000/skillistarxmd_banner.jpg" width="70%" alt="Skilli Star XMD Banner"/>
+  <img src="https://files.catbox.moe/j3xhv4.png" width="70%" alt="Skilli Star XMD Banner"/>
 </p>
 
 <p align="center" style="font-family: 'Courier New', monospace; font-size: 16px; line-height: 1.6; color: #00ccff;">
