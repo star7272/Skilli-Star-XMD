@@ -396,26 +396,27 @@ module.exports = {
     
     
     BOT_URL: process.env.BOT_URL ? process.env.BOT_URL.split(',') : [
-        'https://res.cloudinary.com/dptzpfgtm/image/upload/v1748879883/whatsapp_uploads/e3eprzkzxhwfx7pmemr5.jpg',
-        'https://res.cloudinary.com/dptzpfgtm/image/upload/v1748879901/whatsapp_uploads/hqagxk84idvf899rhpfj.jpg',
-        'https://res.cloudinary.com/dptzpfgtm/image/upload/v1748879921/whatsapp_uploads/bms318aehnllm6sfdgql.jpg'
+        'https://res.cloudinary.com/demo/image/upload/c_pad,w_2400,h_1600,b_gen_fill/v1689803100/ai/hiker.jpg'
     ],
     
-    MENU_TOP_LEFT: process.env.MENU_TOP_LEFT || "┌─❖",
-    MENU_BOT_NAME_LINE: process.env.MENU_BOT_NAME_LINE || "│ ",
-    MENU_BOTTOM_LEFT: process.env.MENU_BOTTOM_LEFT || "└┬❖",
-    MENU_GREETING_LINE: process.env.MENU_GREETING_LINE || "┌┤ ",
-    MENU_DIVIDER: process.env.MENU_DIVIDER || "│└────────┈⳹",
-    MENU_USER_LINE: process.env.MENU_USER_LINE || "│👦 ",
-    MENU_DATE_LINE: process.env.MENU_DATE_LINE || "│📅 ",
-    MENU_TIME_LINE: process.env.MENU_TIME_LINE || "│⏰ ",
-    MENU_STATS_LINE: process.env.MENU_STATS_LINE || "│⭐ ",
-    MENU_BOTTOM_DIVIDER: process.env.MENU_BOTTOM_DIVIDER || "└─────────────┈⳹",
+MENU_TOP_LEFT: process.env.MENU_TOP_LEFT || "╭─❖「 💫 *SKILLI STAR-XMD* 」❖",
+MENU_BOT_NAME_LINE: process.env.MENU_BOT_NAME_LINE || "│🤖 Bot: *Skilli Star-XMD*",
+MENU_BOTTOM_LEFT: process.env.MENU_BOTTOM_LEFT || "╰┬❖",
+MENU_GREETING_LINE: process.env.MENU_GREETING_LINE || "│👋 Hello, *User!*",
+MENU_DIVIDER: process.env.MENU_DIVIDER || "│──────────────────────",
+MENU_USER_LINE: process.env.MENU_USER_LINE || "│🙍 User: ",
+MENU_DATE_LINE: process.env.MENU_DATE_LINE || "│📅 Date: ",
+MENU_TIME_LINE: process.env.MENU_TIME_LINE || "│⏰ Time: ",
+MENU_STATS_LINE: process.env.MENU_STATS_LINE || "│⭐ Status: ",
+MENU_BOTTOM_DIVIDER: process.env.MENU_BOTTOM_DIVIDER || "╰─────★ SKILLI STAR-XMD ★─────╯",
+
+    
+  
     
     FOOTER: process.env.BOT_FOOTER || '\n\nFor more info visit: \n\n®2025 ʙᴡᴍ xᴍᴅ 🔥',
     DATABASE_URL,
   GITHUB: 'https://github.com/star7272/skilli-star-XMD',
-  WEBSITE: 'https://skillistar.online',
+  WEBSITE: 'https://star7272.github.io/skillistar.online/',
 };
 
 let file = require.resolve(__filename);
