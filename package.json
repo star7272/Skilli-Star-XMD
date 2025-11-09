@@ -1,10 +1,11 @@
+
 {
   "name": "skilli-star-xmd",
   "version": "1.0.0",
-  "description": "Skilli Star-XMD — WhatsApp bot (Baileys + OpenAI)",
+  "description": "Skilli Star-XMD — Advanced whatsapp bot using Baileys",
   "main": "index.js",
   "type": "commonjs",
-  "enine":{
+  "engine":{
     "node": "20.x"
   },
   "scripts": {
@@ -24,7 +25,7 @@
     "whatsapp-bot",
     "Skilli-Stars",
   ],
-  "author": "Skilli Star-XMD",
+  "author": "Skilli Stars",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyeb-db": "^0.2.4",
